@@ -89,4 +89,4 @@ const FriendDetail = () => {
   );
 };
 
-export default FriendDetail;..
+export default FriendDetail;
