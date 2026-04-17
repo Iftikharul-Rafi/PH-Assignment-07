@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "call",
+    "friendName": "David Kim",
+    "date": "2026-02-10"
+  },
+  {
+    "id": 2,
+    "type": "text",
+    "friendName": "Emma Wilson",
+    "date": "2026-02-15"
+  },
+  {
+    "id": 3,
+    "type": "video",
+    "friendName": "Lisa Nakamura",
+    "date": "2026-02-20"
+  }
+]
+
+..
