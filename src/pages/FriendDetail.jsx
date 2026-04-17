@@ -89,4 +89,5 @@ const FriendDetail = () => {
   );
 };
 
+
 export default FriendDetail;

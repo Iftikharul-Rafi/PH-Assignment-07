@@ -17,4 +17,4 @@ const Banner = ({ onAddFriend }) => {
   );
 };
 
-export default Banner; ..
+export default Banner;
