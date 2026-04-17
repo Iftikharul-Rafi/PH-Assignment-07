@@ -53,4 +53,4 @@ const FriendCard = ({ friend }) => {
   );
 };
 
-export default FriendCard;..
+export default FriendCard;

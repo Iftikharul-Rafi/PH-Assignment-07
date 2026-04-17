@@ -57,4 +57,4 @@ const SummaryCards = ({ friends }) => {
   );
 };
 
-export default SummaryCards;..
+export default SummaryCards;
